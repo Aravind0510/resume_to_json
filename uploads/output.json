@@ -1,0 +1,82 @@
+{
+    "Personal Information": {
+        "Name": "Aravindhan A",
+        "Email": "aravindhan051000@gmail.com",
+        "Phone": "+91 6383749354",
+        "LinkedIn": "https://linkedin.com/in/aravindhana"
+    },
+    "Education": {
+        "Degree": "B.Tech",
+        "Major": "Artificial Intelligence and Data Science",
+        "University": "Sri Manakula Vinayagar Engineering College",
+        "Graduation Year": "2025",
+        "CGPA": "9.3"
+    },
+    "Skills": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "Django",
+        "Flask",
+        "SQL"
+    ],
+    "Experience": [
+        {
+            "Job Title": "Job Title: Data Science Intern",
+            "Company": "Company: Codsoft",
+            "Location": "Location: Remote",
+            "Dates Employed": "Dates Employed: June 2023 - August 2023",
+            "Responsibilities": [
+                "Responsibilities: Developed predictive models using Python",
+                "Created dashboards using Power BI."
+            ]
+        },
+        {
+            "Job Title": "Projects:",
+            "Company": "Title: FinBot",
+            "Location": "Description: Developed a web-based chatbot for loan assistance.",
+            "Dates Employed": "Tech Stack: HTML, CSS, JavaScript, PHP, MySQL",
+            "Responsibilities": [
+                "GitHub Link: https://github.com/aravindhan/FinBot"
+            ]
+        },
+        {
+            "Job Title": "Certifications:",
+            "Company": "Title: Machine Learning Specialization",
+            "Location": "Issuing Organization: Coursera",
+            "Dates Employed": "Date: April 2023",
+            "Responsibilities": [
+                ""
+            ]
+        }
+    ],
+    "Projects": [
+        {
+            "Title": "Title: FinBot",
+            "Description": "Description: Developed a web-based chatbot for loan assistance.",
+            "Tech Stack": [
+                "Tech Stack: HTML",
+                "CSS",
+                "JavaScript",
+                "PHP",
+                "MySQL"
+            ],
+            "GitHub Link": "GitHub Link: https://github.com/aravindhan/FinBot"
+        },
+        {
+            "Title": "Certifications:",
+            "Description": "Title: Machine Learning Specialization",
+            "Tech Stack": [
+                "Issuing Organization: Coursera"
+            ],
+            "GitHub Link": "Date: April 2023"
+        }
+    ],
+    "Certifications": [
+        {
+            "Title": "Title: Machine Learning Specialization",
+            "Issuing Organization": "Issuing Organization: Coursera",
+            "Date": "Date: April 2023"
+        }
+    ]
+}

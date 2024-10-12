@@ -1,0 +1,31 @@
+Name: Aravindhan A
+Email: aravindhan051000@gmail.com
+Phone: +91 6383749354
+LinkedIn: https://linkedin.com/in/aravindhana
+
+Education:
+Degree: B.Tech
+Major: Artificial Intelligence and Data Science
+University: Sri Manakula Vinayagar Engineering College
+Graduation Year: 2025
+CGPA: 9.3
+
+Skills: Python, Machine Learning, Data Analysis, Django, Flask, SQL
+
+Experience:
+Job Title: Data Science Intern
+Company: Codsoft
+Location: Remote
+Dates Employed: June 2023 - August 2023
+Responsibilities: Developed predictive models using Python, Created dashboards using Power BI.
+
+Projects:
+Title: FinBot
+Description: Developed a web-based chatbot for loan assistance.
+Tech Stack: HTML, CSS, JavaScript, PHP, MySQL
+GitHub Link: https://github.com/aravindhan/FinBot
+
+Certifications:
+Title: Machine Learning Specialization
+Issuing Organization: Coursera
+Date: April 2023
