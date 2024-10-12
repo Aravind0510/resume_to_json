@@ -69,12 +69,10 @@ resume-to-json/
    
 2. **Install dependencies:**
    - Create a virtual environment (optional but recommended):
-      ```bash
+   ```bash
    python -m venv venv
    source venv/bin/activate
-   # On Windows:
-   venv\Scripts\activate
-    ```
+  
   - Install Flask:
     
     ```bash
