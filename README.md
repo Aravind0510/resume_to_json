@@ -66,20 +66,24 @@ resume-to-json/
    ```bash
    git clone https://github.com/your-username/Resume-to-JSON.git
    cd Resume-to-JSON
+   
 2. **Install dependencies:**
    - Create a virtual environment (optional but recommended):
       ```bash
    python -m venv venv
-   source venv/bin/activate    # On Windows: venv\Scripts\activate
+   source venv/bin/activate
+   # On Windows:
+   venv\Scripts\activate
     ```
   - Install Flask:
+    
     ```bash
     pip install flask
-    ```
+    
 3. **Run the application:**
    ```bash
    python app.py
-  ```
+  
 
 4. **Access the web app:**
   - Open your browser and go to **http://127.0.0.1:5000.**
