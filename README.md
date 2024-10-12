@@ -86,6 +86,11 @@ resume-to-json/
 4. **Access the web app:**
   - Open your browser and go to **http://127.0.0.1:5000.**
 
+## How to Run the Project
+
+1. **Upload Resume:** On the landing page, you'll find an "Upload Resume" button. Click it and choose a plain text resume (.txt format).
+2. **Convert and Download JSON:** After uploading, the system will automatically convert your resume to JSON format. Once converted, a download button will appear for the JSON file.
+
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
